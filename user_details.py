@@ -1,4 +1,4 @@
-a = input("Enter a")
-b = input("Enter b")
+name = input("Enter your name: ")
+age = input("Enter your age: ")
 
-print("Addition",a-b)
+print(f"Hello, {name}! You are {age} years old.")
